@@ -1,2 +1,3 @@
 # ProjectNB
-My 3D fp game
+My 3D fp game...
+Will try to update frequently
